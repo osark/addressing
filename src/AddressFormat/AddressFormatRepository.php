@@ -402,7 +402,7 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             'EG' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%locality\n%administrativeArea\n%postalCode",
                 'postal_code_pattern' => '\d{5}',
-                'subdivision_depth' => 1,
+                'subdivision_depth' => 2,
             ],
             'EH' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality",
