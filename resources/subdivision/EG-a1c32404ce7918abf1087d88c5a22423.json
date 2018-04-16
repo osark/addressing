@@ -1,24 +1,70 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Giza Governorate"
     ],
     "subdivisions": {
-        "ابو النمرس": [],
-        "اطفيح": [],
-        "البدرشين": [],
-        "الصف": [],
-        "العياط": [],
-        "الهرم": [],
-        "الواحات": [],
-        "الوراق": [],
-        "شمال الجيزة": [],
-        "مركز اوسيم": [],
-        "المنيب": [],
-        "امبابة": [],
-        "العجوزة": [],
-        "فيصل": [],
-        "6 اكتوبر": []
+        "Abu Nomros": {
+            "local_code": "ابو النمرس",
+            "has_children": false
+        },
+        "Atfih": {
+            "local_code": "اطفيح",
+            "has_children": false
+        },
+        "Al Badrasheen": {
+            "local_code": "البدرشين",
+            "has_children": false
+        },
+        "Alsaf": {
+            "local_code": "الصف",
+            "has_children": false
+        },
+        "Al AAyat": {
+            "local_code": "العياط",
+            "has_children": false
+        },
+        "Alharam": {
+            "local_code": "الهرم",
+            "has_children": false
+        },
+        "Oasis": {
+            "local_code": "الواحات",
+            "has_children": false
+        },
+        "Warraq": {
+            "local_code": "الوراق",
+            "has_children": false
+        },
+        "North of Giza": {
+            "local_code": "شمال الجيزة",
+            "has_children": false
+        },
+        "Osim Center": {
+            "local_code": "مركز اوسيم",
+            "has_children": false
+        },
+        "Al-Munib": {
+            "local_code": "المنيب",
+            "has_children": false
+        },
+        "Imbaba": {
+            "local_code": "امبابة",
+            "has_children": false
+        },
+        "Agouza": {
+            "local_code": "العجوزة",
+            "has_children": false
+        },
+        "Faisal": {
+            "local_code": "فيصل",
+            "has_children": false
+        },
+        "6 October": {
+            "local_code": "6 اكتوبر",
+            "has_children": false
+        }
     }
 }

@@ -1,18 +1,46 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Menia Governorate"
     ],
     "subdivisions": {
-        "أبو قرقاص": [],
-        "العدوه": [],
-        "المنيا": [],
-        "بنى مزار": [],
-        "ديرمواس": [],
-        "سمالوط": [],
-        "مطاى": [],
-        "مغاغه": [],
-        "ملوى": []
-    }
+        "Abu Qurqas": {
+            "local_code": "أبو قرقاص",
+            "has_children": false
+        },
+        "El-Euduh": {
+            "local_code": "العدوه",
+            "has_children": false
+        },
+        "Menia": {
+            "local_code": "المنيا",
+            "has_children": false
+        },
+        "Bani Mazar": {
+            "local_code": "بنى مزار",
+            "has_children": false
+        },
+        "Dermouas": {
+            "local_code": "ديرمواس",
+            "has_children": false
+        },
+        "Samalut": {
+            "local_code": "سمالوط",
+            "has_children": false
+        },
+        "Mattay": {
+            "local_code": "مطاى",
+            "has_children": false
+        },
+        "Maghagha": {
+            "local_code": "مغاغه",
+            "has_children": false
+        },
+        "Malwaa": {
+            "local_code": "ملوى",
+            "has_children": false
+        }
+    }   
 }

@@ -1,49 +1,170 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Cairo Governorate"
     ],
     "subdivisions": {
-        "البساتين": [],
-        "التبيين": [],
-        "الزاوية الحمراء": [],
-        "الزيتون": [],
-        "الساحل": [],
-        "السلام": [],
-        "السيدة زينب": [],
-        "الشرابية": [],
-        "المرج": [],
-        "المطرية": [],
-        "المعادي": [],
-        "المقطم": [],
-        "الموسكى و باب الشعرية": [],
-        "النزهة": [],
-        "الويلى": [],
-        "حدائق القبة": [],
-        "حلوان": [],
-        "دار السلام": [],
-        "روض الفرج": [],
-        "شبرا": [],
-        "طره": [],
-        "طره ابوزعبل": [],
-        "عابدين": [],
-        "عين شمس": [],
-        "مدينة نصر": [],
-        "مصر القديمة": [],
-        "منشية ناصر": [],
-        "وسط القاهرة": [],
-        "العباسية": [],
-        "الموسكي": [],
-        "مصر الجديدة": [],
-        "جسر السويس": [],
-        "العتبة": [],
-        "الملقا": [],
-        "الدراسة": [],
-        "امبابة": [],
-        "حلمية الزيتون": [],
-        "المظلات": [],
-        "حدائق الزيتون": [],
-        "العاشر من رمضان": []
+        "Albasatin": {
+            "local_code": "البساتين",
+            "has_children": false
+        },
+        "Altabiin": {
+            "local_code": "التبيين",
+            "has_children": false
+        },
+        "Alzawia alhamra": {
+            "local_code": "الزاوية الحمراء",
+            "has_children": false
+        },
+        "AlZaytuon": {
+            "local_code": "الزيتون",
+            "has_children": false
+        },
+        "Alsahil": {
+            "local_code": "الساحل",
+            "has_children": false
+        },
+        "AlSalam": {
+            "local_code": "السلام",
+            "has_children": false
+        },
+        "Alsayidat zainab": {
+            "local_code": "السيدة زينب",
+            "has_children": false
+        },
+        "Sharabiyah": {
+            "local_code": "الشرابية",
+            "has_children": false
+        },
+        "Almarh": {
+            "local_code": "المرج",
+            "has_children": false
+        },
+        "AlMataria": {
+            "local_code": "المطرية",
+            "has_children": false
+        },
+        "Maadi": {
+            "local_code": "المعادي",
+            "has_children": false
+        },
+        "Mokattam": {
+            "local_code": "المقطم",
+            "has_children": false
+        },
+        "Al-Mousky and Bab al-Sha'ariyya": {
+            "local_code": "الموسكى و باب الشعرية",
+            "has_children": false
+        },
+        "Elnozha": {
+            "local_code": "النزهة",
+            "has_children": false
+        },
+        "Waily": {
+            "local_code": "الويلى",
+            "has_children": false
+        },
+        "Hadayiq Alqoba": {
+            "local_code": "حدائق القبة",
+            "has_children": false
+        },
+        "Helwan": {
+            "local_code": "حلوان",
+            "has_children": false
+        },
+        "Dar AISalaam": {
+            "local_code": "دار السلام",
+            "has_children": false
+        },
+        "Rod Alfarag": {
+            "local_code": "روض الفرج",
+            "has_children": false
+        },
+        "Shoubra": {
+            "local_code": "شبرا",
+            "has_children": false
+        },
+        "Tura": {
+            "local_code": "طره",
+            "has_children": false
+        },
+        "Tura Abozabal" : {
+            "local_code": "طره ابوزعبل",
+            "has_children": false
+        },
+        "Abdeen": {
+            "local_code": "عابدين",
+            "has_children": false
+        },
+        "Ain Shams": {
+            "local_code": "عين شمس",
+            "has_children": false
+        },
+        "Nasr City": {
+            "local_code": "مدينة نصر",
+            "has_children": false
+        },
+       "Masr Al kadima": {
+            "local_code": "مصر القديمة",
+            "has_children": false
+        },
+        "Mansheyet Nasser": {
+            "local_code": "منشية ناصر",
+            "has_children": false
+        },
+        "Downtown Cairo": {
+            "local_code": "وسط القاهرة",
+            "has_children": false
+        },
+        "Abbasiyah": {
+            "local_code": "العباسية",
+            "has_children": false
+        },
+        "Muski": {
+            "local_code": "الموسكي",
+            "has_children": false
+        },
+        "Heliopolis": {
+            "local_code": "مصر الجديدة",
+            "has_children": false
+        },
+        "Gisr Alsuez": {
+            "local_code": "جسر السويس",
+            "has_children": false
+        },
+        "Attaba": {
+            "local_code": "العتبة",
+            "has_children": false
+        },
+        "Malaka": {
+            "local_code": "الملقا",
+            "has_children": false
+        },
+        "Aldarasa": {
+            "local_code": "الدراسة",
+            "has_children": false
+        },
+        "Imbaba": {
+            "local_code": "امبابة",
+            "has_children": false
+        },
+        "helmyet alzaytun": {
+            "local_code": "حلمية الزيتون",
+            "has_children": false
+        },
+        "AlMazalat": {
+            "local_code": "المظلات",
+            "has_children": false
+        },
+        "Hadayiq alzaytun": {
+            "local_code": "حدائق الزيتون",
+            "has_children": false
+        },
+        "10 of Ramadan": {
+            "local_code": "العاشر من رمضان",
+            "has_children": false
+        }
     }
 }

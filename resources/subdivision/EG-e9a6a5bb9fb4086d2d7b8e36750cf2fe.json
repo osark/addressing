@@ -1,20 +1,54 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Sohag Governorate"
     ],
     "subdivisions": {
-        "اخميم": [],
-        "البليانة": [],
-        "المراغه": [],
-        "المنشاه": [],
-        "جرجا": [],
-        "جهينة": [],
-        "دار السلام": [],
-        "ساقلته": [],
-        "سوهاج": [],
-        "طما": [],
-        "طهطا": []
+        "Akhmeem": {
+            "local_code": "اخميم",
+            "has_children": false
+        },
+        "Baliana": {
+            "local_code": "البليانة",
+            "has_children": false
+        },
+        "Almaragha": {
+            "local_code": "المراغه",
+            "has_children": false
+        },
+        "Almanshah": {
+            "local_code": "المنشاه",
+            "has_children": false
+        },
+        "Garga": {
+            "local_code": "جرجا",
+            "has_children": false
+        },
+        "Juhayna": {
+            "local_code": "جهينة",
+            "has_children": false
+        },
+        "Dar Alsalam": {
+            "local_code": "دار السلام",
+            "has_children": false
+        },
+        "saqilatuh": {
+            "local_code": "ساقلته",
+            "has_children": false
+        },
+        "Sohag": {
+            "local_code": "سوهاج",
+            "has_children": false
+        },
+        "Tama": {
+            "local_code": "طما",
+            "has_children": false
+        },
+        "Tahta": {
+            "local_code": "طهطا",
+            "has_children": false
+        }
     }
 }

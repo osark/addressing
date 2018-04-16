@@ -1,14 +1,30 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Faiyum Governorate"
     ],
     "subdivisions": {
-        "ابشواى": [],
-        "اطسا": [],
-        "طامية": [],
-        "فيوم مركز": [],
-        "يوسف الصديق": []
+        "Abshuai": {
+            "local_code": "ابشواى ",
+            "has_children": false
+        },
+        "Atsa": {
+            "local_code": "اطسا",
+            "has_children": false
+        },
+        "Tamiya": {
+            "local_code": "طامية",
+            "has_children": false
+        },
+        "Fayoum Center": {
+            "local_code": "فيوم مركز",
+            "has_children": false
+        },
+        "Yusuf Alsadiq": {
+            "local_code": "يوسف الصديق",
+            "has_children": false
+        }
     }
 }

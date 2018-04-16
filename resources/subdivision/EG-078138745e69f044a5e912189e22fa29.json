@@ -1,18 +1,46 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Gharbia Governorate"
     ],
     "subdivisions": {
-        "السنطة": [],
-        "المحلة": [],
-        "بسيون": [],
-        "زفتى": [],
-        "سمنود": [],
-        "طنطا": [],
-        "قطور": [],
-        "المحلة الكبري": [],
-        "كفر الزيات": []
+        "Santa": {
+            "local_code": "السنطة",
+            "has_children": false
+        },
+        "Mahalla": {
+            "local_code": "المحلة",
+            "has_children": false
+        },
+        "Basion": {
+            "local_code": "بسيون",
+            "has_children": false
+        },
+        "Zefta": {
+            "local_code": "زفتى",
+            "has_children": false
+        },
+        "Samannoud": {
+            "local_code": "سمنود",
+            "has_children": false
+        },
+        "Tanta": {
+            "local_code": "طنطا",
+            "has_children": false
+        },
+        "Kutour": {
+            "local_code": "قطور",
+            "has_children": false
+        },
+        "El-Mahalla Elkubra": {
+            "local_code": "المحلة الكبري",
+            "has_children": false
+        },
+        "Kafr Alzayat": {
+            "local_code": "كفر الزيات",
+            "has_children": false
+        }
     }
 }

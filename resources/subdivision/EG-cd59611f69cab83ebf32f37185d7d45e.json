@@ -1,16 +1,38 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Kafr El Sheikh Governorate"
     ],
     "subdivisions": {
-        "دسوق": [],
-        "سيدى سالم": [],
-        "فوه": [],
-        "قلين": [],
-        "كفر الشيخ": [],
-        "برج البرلس": [],
-        "مطوبس": []
+        "Desouq": {
+            "local_code": "دسوق",
+            "has_children": false
+        },
+        "Sidi Salm": {
+            "local_code": "سيدى سالم",
+            "has_children": false
+        },
+        "Fooh": {
+            "local_code": "فوه",
+            "has_children": false
+        },
+        "Qalin": {
+            "local_code": "قلين",
+            "has_children": false
+        },
+        "Kafr El-Sheikh": {
+            "local_code": "كفر الشيخ",
+            "has_children": false
+        },
+        "Burj Albarulus": {
+            "local_code": "برج البرلس",
+            "has_children": false
+        },
+        "Metobas": {
+            "local_code": "مطوبس",
+            "has_children": false
+        }
     }
 }

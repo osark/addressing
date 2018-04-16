@@ -1,15 +1,34 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Red Sea Governorate"
     ],
     "subdivisions": {
-        "الغردقة": [],
-        "القصير": [],
-        "حلايب وشلاتين وابو رماد": [],
-        "راس غارب": [],
-        "سفاجا": [],
-        "مرسى علم": []
+        "Hurghada": {
+            "local_code": "الغردقة",
+            "has_children": false
+        },
+        "AlQasir": {
+            "local_code": "القصير",
+            "has_children": false
+        },
+        "Halaib , Shalatin and Abo Ramad": {
+            "local_code": "حلايب وشلاتين وابو رماد",
+            "has_children": false
+        },
+        "Ras Ghareb": {
+            "local_code": "راس غارب",
+            "has_children": false
+        },
+        "Safaga": {
+            "local_code": "سفاجا",
+            "has_children": false
+        },
+        "Marsa Alam": {
+            "local_code": "مرسى علم",
+            "has_children": false
+        }
     }
 }

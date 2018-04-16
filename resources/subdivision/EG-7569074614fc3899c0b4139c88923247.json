@@ -1,10 +1,14 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "North Sinai Governorate"
     ],
     "subdivisions": {
-        "مدينة العريش": []
+        "El Arish": {
+            "local_code": "مدينة العريش",
+            "has_children": false
+        }
     }
 }

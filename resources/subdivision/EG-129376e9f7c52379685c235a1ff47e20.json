@@ -1,20 +1,54 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Asyut Governorate"
     ],
     "subdivisions": {
-        "ابنوب": [],
-        "ابو تيج": [],
-        "البدارى": [],
-        "الغنايم": [],
-        "الفتح": [],
-        "القوصية": [],
-        "ديروط": [],
-        "ساحل سليم": [],
-        "صدفا": [],
-        "مركز اسيوط": [],
-        "منفلوط": []
+        "Abnoub": {
+            "local_code": "ابنوب",
+            "has_children": false
+        },
+        "Abu Tig": {
+            "local_code": "ابو تيج",
+            "has_children": false
+        },
+        "Badari": {
+            "local_code": "البدارى",
+            "has_children": false
+        },
+        "Ghanaim": {
+            "local_code": "الغنايم",
+            "has_children": false
+        },
+        "El-Fath": {
+            "local_code": "الفتح",
+            "has_children": false
+        },
+        "Qusiya": {
+            "local_code": "القوصية",
+            "has_children": false
+        },
+        "Dayrout": {
+            "local_code": "ديروط",
+            "has_children": false
+        },
+        "Sahil Saliym": {
+            "local_code": "ساحل سليم",
+            "has_children": false
+        },
+        "Sidfa": {
+            "local_code": "صدفا",
+            "has_children": false
+        },
+        "Assiut Center": {
+            "local_code": "مركز اسيوط",
+            "has_children": false
+        },
+        "Manfalut": {
+            "local_code": "منفلوط",
+            "has_children": false
+        }
     }
 }

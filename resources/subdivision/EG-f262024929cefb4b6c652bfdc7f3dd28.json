@@ -1,16 +1,38 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Beni Suef Governorate"
     ],
     "subdivisions": {
-        "الفشن": [],
-        "الوسطى": [],
-        "اهناسيا": [],
-        "ببا": [],
-        "بنى سويف": [],
-        "سمسطا": [],
-        "ناصر": []
+        "Fashn": {
+            "local_code": "الفشن",
+            "has_children": false
+        },
+        "Alwustaa": {
+            "local_code": "الوسطى",
+            "has_children": false
+        },
+        "Ahnasia": {
+            "local_code": "اهناسيا",
+            "has_children": false
+        },
+        "BBA": {
+            "local_code": "ببا",
+            "has_children": false
+        },
+        "Bani Sweif": {
+            "local_code": "بنى سويف",
+            "has_children": false
+        },
+        "Somasta": {
+            "local_code": "سمسطا",
+            "has_children": false
+        },
+        "Naser": {
+            "local_code": "ناصر",
+            "has_children": false
+        }
     }
 }

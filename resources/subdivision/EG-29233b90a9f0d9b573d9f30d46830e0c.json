@@ -1,14 +1,30 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Aswan Governorate"
     ],
     "subdivisions": {
-        "ادفو": [],
-        "اسوان": [],
-        "دراو": [],
-        "كوم امبو": [],
-        "نصر النوبة": []
+        "Edfu": {
+            "local_code": "ادفو",
+            "has_children": false
+        },
+        "Aswan": {
+            "local_code": "اسوان",
+            "has_children": false
+        },
+        "Drau": {
+            "local_code": "دراو ",
+            "has_children": false
+        },
+        "Kom Ombo": {
+            "local_code": "كوم امبو",
+            "has_children": false
+        },
+        "Nasr Nubia": {
+            "local_code": "نصر النوبة" ,
+            "has_children": false
+        }
     }
 }

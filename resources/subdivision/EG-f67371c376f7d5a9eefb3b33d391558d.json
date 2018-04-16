@@ -1,16 +1,38 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Luxor Governorate"
     ],
     "subdivisions": {
-        "ارمنت": [],
-        "اسنا": [],
-        "الاقصر": [],
-        "البياضية": [],
-        "الزينية": [],
-        "الطود": [],
-        "القرنة": []
+        "Armant": {
+            "local_code": "ارمنت",
+            "has_children": false
+        },
+        "Esna": {
+            "local_code": "اسنا",
+            "has_children": false
+        },
+        "Luxor": {
+            "local_code": "الاقصر   ",
+            "has_children": false
+        },
+        "AlBayadiya": {
+            "local_code": "البياضية",
+            "has_children": false
+        },
+        "Alziynia": {
+            "local_code": "الزينية",
+            "has_children": false
+        },
+        "AlTud": {
+            "local_code": "الطود",
+            "has_children": false
+        },
+        "Qurna": {
+            "local_code": "القرنة",
+            "has_children": false
+        }
     }
 }

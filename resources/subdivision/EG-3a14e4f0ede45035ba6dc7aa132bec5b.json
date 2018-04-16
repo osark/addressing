@@ -1,13 +1,26 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "New Valley Governorate"
     ],
     "subdivisions": {
-        "الخارجة": [],
-        "الداخلة": [],
-        "الفرافرة": [],
-        "باريس": []
+        "Alkharija": {
+            "local_code": "الخارجة",
+            "has_children": false
+        },
+        "Dakhla": {
+            "local_code": "الداخلة",
+            "has_children": false
+        },
+        "Farafra": {
+            "local_code": "الفرافرة",
+            "has_children": false
+        },
+        "Paris":{
+            "local_code": "باريس",
+            "has_children": false
+        }
     }
 }

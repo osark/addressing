@@ -1,21 +1,58 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Dakahlia Governorate"
     ],
     "subdivisions": {
-        "اجا": [],
-        "المنزلة": [],
-        "المنصورة": [],
-        "بلقاس": [],
-        "تمى الأمديد": [],
-        "دكرنس": [],
-        "شربين": [],
-        "طلخا": [],
-        "مدينة المنصورة": [],
-        "ميت سلسيل": [],
-        "ميت غمر": [],
-        "مركز المطرية": []
+        "Aga": {
+            "local_code": "اجا",
+            "has_children": false
+        },
+        "Al-Munzila": {
+            "local_code": "المنزلة",
+            "has_children": false
+        },
+        "Mansoura": {
+            "local_code": "المنصورة",
+            "has_children": false
+        },
+        "Belkas": {
+            "local_code": "بلقاس",
+            "has_children": false
+        },
+        "Tamaa Al'amdid": {
+            "local_code": "تمى الأمديد",
+            "has_children": false
+        },
+        "Dekernes": {
+            "local_code": "دكرنس",
+            "has_children": false
+        },
+        "Sherbin": {
+            "local_code": "شربين",
+            "has_children": false
+        },
+        "Talkha": {
+            "local_code": "طلخا",
+            "has_children": false
+        },
+        "Mansoura City": {
+            "local_code": "مدينة المنصورة",
+            "has_children": false
+        },
+        "Mitt Salsil": {
+            "local_code": "ميت سلسيل",
+            "has_children": false
+        },
+        "Mitt Ghamr": {
+            "local_code": "ميت غمر",
+            "has_children": false
+        },
+        "Al-Matareya Center": {
+            "local_code": "مركز المطرية",
+            "has_children": false
+        }
     }
 }

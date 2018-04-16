@@ -1,12 +1,22 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Suez Governorate"
     ],
     "subdivisions": {
-        "السويس": [],
-        "حى الاربعين": [],
-        "حى الجناين": []
+        "Suez": {
+            "local_code": "السويس",
+            "has_children": false
+        },
+        "Al-Arbaeen": {
+            "local_code": "حى الاربعين",
+            "has_children": false
+        },
+        "Al-Janayen": {
+            "local_code": "حى الجناين",
+            "has_children": false
+        }
     }
 }

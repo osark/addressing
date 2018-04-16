@@ -1,11 +1,18 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Matrouh Governorate"
     ],
     "subdivisions": {
-        "نجيلة": [],
-        "مطروح": []
+        "Najila": {
+            "local_code": "نجيلة",
+            "has_children": false
+        },
+        "Matrouh": {
+            "local_code": "مطروح",
+            "has_children": false
+        }
     }
 }

@@ -1,21 +1,58 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Qalyubia Governorate"
     ],
     "subdivisions": {
-        "الخانكة": [],
-        "العبور": [],
-        "القناطر": [],
-        "بنها": [],
-        "شبرا غرب": [],
-        "شبين القناطر": [],
-        "شيرا شرق": [],
-        "طوخ": [],
-        "قليوب": [],
-        "قها": [],
-        "شبرا الخيمة": [],
-        "كفر شكر": []
+        "Khanka": {
+            "local_code": "الخانكة",
+            "has_children": false
+        },
+        "EL-Obour": {
+            "local_code": "العبور",
+            "has_children": false
+        },
+        "El-Qanatir": {
+            "local_code": "القناطر",
+            "has_children": false
+        },
+        "Benha": {
+            "local_code": "بنها",
+            "has_children": false
+        },
+        "Shoubra Gharb": {
+            "local_code": "شبرا غرب",
+            "has_children": false
+        },
+        "Shebin El-Qanatir": {
+            "local_code": "شبين القناطر",
+            "has_children": false
+        },
+        "Shoubra Sharq": {
+            "local_code": "شبرا شرق",
+            "has_children": false
+        },
+        "Tukh": {
+            "local_code": "طوخ",
+            "has_children": false
+        },
+        "Qalyub": {
+            "local_code": "قليوب",
+            "has_children": false
+        },
+        "Qaha": {
+            "local_code": "قها",
+            "has_children": false
+        },
+        "Shubra Al Khaimah": {
+            "local_code": "شبرا الخيمة",
+            "has_children": false
+        },
+        "Kafr Shukr": {
+            "local_code": "كفر شكر",
+            "has_children": false
+        }
     }
 }

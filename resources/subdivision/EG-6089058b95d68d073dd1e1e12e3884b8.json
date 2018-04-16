@@ -1,18 +1,46 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Qena Governorate"
     ],
     "subdivisions": {
-        "ابوتشت": [],
-        "الوقف": [],
-        "دشنا": [],
-        "فرشوط": [],
-        "قفط": [],
-        "قنا": [],
-        "قوص": [],
-        "نجع حمادي": [],
-        "نقادة": []
+        "Abo-Tishat": {
+            "local_code": "ابوتشت",
+            "has_children": false
+        },
+        "El-Waqf": {
+            "local_code": "الوقف",
+            "has_children": false
+        },
+        "Deshna": {
+            "local_code": "دشنا",
+            "has_children": false
+        },
+        "Farshout": {
+            "local_code": "فرشوط",
+            "has_children": false
+        },
+        "Qaft": {
+            "local_code": "قفط",
+            "has_children": false
+        },
+        "Qena": {
+            "local_code": "قنا",
+            "has_children": false
+        },
+        "Qus": {
+            "local_code": "قوص",
+            "has_children": false
+        },
+        "Nag Hammadi": {
+            "local_code": "نجع حمادي",
+            "has_children": false
+        },
+        "Naqada": {
+            "local_code": "نقادة",
+            "has_children": false
+        }
     }
 }

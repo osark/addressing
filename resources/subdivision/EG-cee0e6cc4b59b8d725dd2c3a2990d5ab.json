@@ -1,13 +1,26 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Damietta Governorate"
     ],
     "subdivisions": {
-        "الزرقا": [],
-        "دمياط": [],
-        "فارسكور": [],
-        "كفر سعد": []
+        "Zarqa": {
+            "local_code": "الزرقا",
+            "has_children": false
+        },
+        "Damietta": {
+            "local_code": "دمياط",
+            "has_children": false
+        },
+        "Faraskour": {
+            "local_code": "فارسكور",
+            "has_children": false
+        },
+        "Kafr Saad": {
+            "local_code": "كفر سعد",
+            "has_children": false
+        }
     }
 }

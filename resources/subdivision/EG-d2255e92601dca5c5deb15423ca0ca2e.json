@@ -1,24 +1,70 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Alexandria Governorate"
     ],
     "subdivisions": {
-        "حى الجمرك": [],
-        "حى العامرية": [],
-        "حى المنتزة": [],
-        "حى شرق": [],
-        "حى غرب": [],
-        "حى وسط": [],
-        "العجمي": [],
-        "العوايد": [],
-        "برج العرب": [],
-        "ميامي":[],
-        "سيدي بشر":[],
-        "سموحة":[],
-        "الحضرة الجديدة":[],
-        "كليوباترا":[],
-        "سيدي جابر":[]
+        "Aljamuruk District": {
+            "local_code": "حى الجمرك",
+            "has_children": false
+        },
+        "Ameriya District": {
+            "local_code": "حى العامرية",
+            "has_children": false
+        },
+        "Montazah District": {
+            "local_code": "حى المنتزة",
+            "has_children": false
+        },
+        "East District": {
+            "local_code": "حى شرق",
+            "has_children": false
+        },
+        "West District": {
+            "local_code": "حى غرب",
+            "has_children": false
+        },
+        "Central District": {
+            "local_code": "حى وسط",
+            "has_children": false
+        },
+        "Al Ajmi": {
+            "local_code": "العجمي",
+            "has_children": false
+        },
+        "Awaid": {
+            "local_code": "العوايد",
+            "has_children": false
+        },
+        "Burj Al Arab": {
+            "local_code": "برج العرب",
+            "has_children": false
+        },
+        "Miami": {
+            "local_code": "ميامي",
+            "has_children": false
+        },
+        "Sidi Bishr": {
+            "local_code": "سيدي بشر",
+            "has_children": false
+        },
+        "Smouha": {
+            "local_code": "سموحة",
+            "has_children": false
+        },
+        "New Hadara": {
+            "local_code": "الحضرة الجديدة",
+            "has_children": false
+        },
+        "Cleopatra": {
+            "local_code": "كليوباترا",
+            "has_children": false
+        },
+        "Sidi Gaber": {
+            "local_code": "سيدي جابر",
+            "has_children": false
+        }
     }
 }

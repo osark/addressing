@@ -1,19 +1,50 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Ash Sharqia Governorate"
     ],
     "subdivisions": {
-        "ابوحماد- القرين": [],
-        "ابوكبير": [],
-        "الحسينية- صان الحجر": [],
-        "الزقازيق": [],
-        "بلبيس": [],
-        "ديرب نجم - القنايات-مشتول": [],
-        "فاقوس": [],
-        "كفر صقر- اولاد صقر": [],
-        "منيا القمح": [],
-        "هيها- الابراهيمية": []
+        "Abohamad - Qurain": {
+            "local_code": "ابوحماد- القرين",
+            "has_children": false
+        },
+        "Abu Kabir": {
+            "local_code": "ابوكبير",
+            "has_children": false
+        },
+        "Husseiniya - San El Hagar": {
+            "local_code": "الحسينية- صان الحجر",
+            "has_children": false
+        },
+        "Zagazig": {
+            "local_code": "الزقازيق",
+            "has_children": false
+        },
+        "Belbeis": {
+            "local_code": "بلبيس",
+            "has_children": false
+        },
+        "Derb Negm - Qnayat - Mashtoul": {
+            "local_code": "ديرب نجم - القنايات-مشتول",
+            "has_children": false
+        },
+        "Vaccus": {
+            "local_code": "فاقوس",
+            "has_children": false
+        },
+        "Kafr Saqr - Awlad Saqr": {
+            "local_code": "كفر صقر- اولاد صقر",
+            "has_children": false
+        },
+        "Minya Al-Qamh": {
+            "local_code": "منيا القمح",
+            "has_children": false
+        },  
+        "Heha - Brahimi": {
+            "local_code": "هيها- الابراهيمية",
+            "has_children": false
+        }
     }
 }

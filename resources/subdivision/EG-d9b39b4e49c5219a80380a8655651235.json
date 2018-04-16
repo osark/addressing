@@ -1,18 +1,46 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Menofia Governorate"
     ],
     "subdivisions": {
-        "أشمون": [],
-        "السادات": [],
-        "الشهدا": [],
-        "باجور": [],
-        "بركة السبع": [],
-        "تلا": [],
-        "شبين الكوم": [],
-        "قويسنا": [],
-        "منوف": []
+        "Ashmon": {
+            "local_code": "أشمون",
+            "has_children": false
+        },
+        "Sadat": {
+            "local_code": "السادات",
+            "has_children": false
+        },
+        "Alshuhada'": {
+            "local_code": "الشهدا",
+            "has_children": false
+        },
+        "Bajaur": {
+            "local_code": "باجور",
+            "has_children": false
+        },
+        "Brikat Alsbe": {
+            "local_code": "بركة السبع",
+            "has_children": false
+        },
+        "Tala": {
+            "local_code": "تلا",
+            "has_children": false
+        },
+        "Shebie n El Koom": {
+            "local_code": "شبين الكوم",
+            "has_children": false
+        },
+        "Quesna": {
+            "local_code": "قويسنا",
+            "has_children": false
+        },
+        "Menouf": {
+            "local_code": "منوف",
+            "has_children": false
+        }
     }
 }

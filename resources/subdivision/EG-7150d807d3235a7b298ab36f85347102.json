@@ -1,18 +1,46 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "South Sinai Governorate"
     ],
     "subdivisions": {
-        "ابو رديس": [],
-        "ابو زنيمة": [],
-        "دهب": [],
-        "سانت كترين": [],
-        "شرم الشيخ": [],
-        "طابا": [],
-        "طور سيناء": [],
-        "نويبع": [],
-        "وادى فيران والتجمعات البدوية المحيطة": []
+        "Abu Redis": {
+            "local_code": "ابو رديس",
+            "has_children": false
+        },
+        "Abu Zenaima": {
+            "local_code": "ابو زنيمة",
+            "has_children": false
+        },
+        "Dahab": {
+            "local_code": "دهب",
+            "has_children": false
+        },
+        "Saint Catherine": {
+            "local_code": "سانت كترين",
+            "has_children": false
+        },
+        "Sharm El-Shaikh": {
+            "local_code": "شرم الشيخ",
+            "has_children": false
+        },
+        "Taba": {
+            "local_code": "طابا",
+            "has_children": false
+        },
+        "Sinai Twor": {
+            "local_code": "طور سيناء",
+            "has_children": false
+        },
+        "Nuweiba": {
+            "local_code": "نويبع",
+            "has_children": false
+        },
+        "Wadi Firan and surrounding Bedouin communities": {
+            "local_code": "وادى فيران والتجمعات البدوية المحيطة",
+            "has_children": false
+        }
     }
 }

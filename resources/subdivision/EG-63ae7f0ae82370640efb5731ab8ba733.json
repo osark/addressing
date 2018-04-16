@@ -1,23 +1,66 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "El Beheira Governorate"
     ],
     "subdivisions": {
-        "ابو حمص": [],
-        "ادكو": [],
-        "الدلنجات": [],
-        "الرحمانية- شبرا خيت": [],
-        "المحمودية": [],
-        "ايتاى البارود": [],
-        "بدر -التحرير": [],
-        "حوش عيسى -ابو المطامير": [],
-        "دمنهور": [],
-        "رشيد": [],
-        "غرب النوبرية": [],
-        "كفر الدوار": [],
-        "كوم حمادة": [],
-        "وادى النطرون": []
+        "Abu Homs": {
+            "local_code": "ابو حمص",
+            "has_children": false
+        },
+        "Adco": {
+            "local_code": "ادكو",
+            "has_children": false
+        },
+        "Delengat": {
+            "local_code": "الدلنجات",
+            "has_children": false
+        },
+        "Rahmaniyah - Shubra Khit": {
+            "local_code": "الرحمانية- شبرا خيت",
+            "has_children": false
+        },
+        "El-Mahmoudiyah": {
+            "local_code": "المحمودية",
+            "has_children": false
+        },
+        "Aytay El-Barud": {
+            "local_code": "ايتاى البارود",
+            "has_children": false
+        },
+        "Badr El-Tahrir": {
+            "local_code": "بدر -التحرير",
+            "has_children": false
+        },
+        "Housh Eissa - Abu Matamir": {
+            "local_code": "حوش عيسى -ابو المطامير",
+            "has_children": false
+        },
+        "Damanhour": {
+            "local_code": "دمنهور",
+            "has_children": false
+        },
+        "Rashid": {
+            "local_code": "رشيد",
+            "has_children": false
+        },
+        "Gharb El-Nuwbarit": {
+            "local_code": "غرب النوبرية",
+            "has_children": false
+        },
+        "Kafr El Dawar": {
+            "local_code": "كفر الدوار",
+            "has_children": false
+        },
+        "Com Hamada": {
+            "local_code": "كوم حمادة",
+            "has_children": false
+        },
+        "Wadi El-Natrun": {
+            "local_code": "وادى النطرون",
+            "has_children": false
+        }
     }
 }

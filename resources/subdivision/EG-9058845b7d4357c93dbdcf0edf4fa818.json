@@ -1,15 +1,34 @@
 {
     "country_code": "EG",
+    "locale": "ar",
     "parents": [
         "EG",
         "Port Said Governorate"
     ],
     "subdivisions": {
-        "الزهور": [],
-        "المناخ": [],
-        "بورفؤاد": [],
-        "حى الجنوب": [],
-        "حى العرب": [],
-        "حى المناخ": []
+        "El-Zuhur": {
+            "local_code": "الزهور",
+            "has_children": false
+        },
+        "El-Munakh": {
+            "local_code": "المناخ",
+            "has_children": false
+        },
+        "Port Fouad": {
+            "local_code": "بورفؤاد",
+            "has_children": false
+        },
+        "South District": {
+            "local_code": "حى الجنوب",
+            "has_children": false
+        },
+        "Arab District": {
+            "local_code": "حى العرب",
+            "has_children": false
+        },
+        "Al-Manakh District": {
+            "local_code": "حى المناخ",
+            "has_children": false
+        }
     }
 }
