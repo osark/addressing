@@ -53,6 +53,26 @@
         "Al-Matareya Center": {
             "local_code": "مركز المطرية",
             "has_children": false
+        },
+        "Al-Senblaween": {
+            "local_code": "السنبلاوين",
+            "has_children": false
+        },
+        "Sidi-Abdelkader": {
+            "local_code": "سيدي عبد القادر",
+            "has_children": false
+        },
+        "Nabrou": {
+            "local_code": "نبروه",
+            "has_children": false
+        },
+        "Manshiet Alsalam": {
+            "local_code": "منشية السلام",
+            "has_children": false
+        },
+        "Gamsah": {
+            "local_code": "جمصة",
+            "has_children": false
         }
     }
 }

@@ -21,6 +21,19 @@
         "Kafr Saad": {
             "local_code": "كفر سعد",
             "has_children": false
-        }
+        },
+        "Qesm Damietta": {
+            "local_code": "قسم دمياط",
+            "has_children": false
+        },
+        "Damietta Algededa": {
+            "local_code": "دمياط الجديدة",
+            "has_children": false
+        },
+        "Sherbas": {
+            "local_code": "شرباص",
+            "has_children": false
+        }   
+
     }
 }

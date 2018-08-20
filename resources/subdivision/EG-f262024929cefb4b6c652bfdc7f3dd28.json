@@ -33,6 +33,10 @@
         "Naser": {
             "local_code": "ناصر",
             "has_children": false
+        },
+        "Wasta": {
+            "local_code": "الواسطة",
+            "has_children": false
         }
     }
 }

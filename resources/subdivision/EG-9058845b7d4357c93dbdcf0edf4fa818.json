@@ -29,6 +29,18 @@
         "Al-Manakh District": {
             "local_code": "حى المناخ",
             "has_children": false
+        },
+        "AlManteqa-Hura": {
+            "local_code": "المنطقة الحرة",
+            "has_children": false
+        },
+        "AlManteqa-AlSenaiah": {
+            "local_code": "المنطقة الحرة",
+            "has_children": false
+        },
+        "Al-Dawahy": {
+            "local_code": "الضواحي",
+            "has_children": false
         }
     }
 }

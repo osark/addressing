@@ -21,6 +21,19 @@
         "West Qantara": {
             "local_code": "قنطرة غرب",
             "has_children": false
+        },
+        "Qantara": {
+            "local_code": "قنطرة",
+            "has_children": false
+        },
+        "Manshyet Alshohadaa": {
+            "local_code": "منشية الشهداء",
+            "has_children": false
+        },
+        "Sheik Zayed": {
+            "local_code": "الشيخ زايد",
+            "has_children": false
         }
+
     }
 }

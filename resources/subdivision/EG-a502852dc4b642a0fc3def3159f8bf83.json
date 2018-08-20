@@ -25,6 +25,10 @@
         "Yusuf Alsadiq": {
             "local_code": "يوسف الصديق",
             "has_children": false
+        },
+        "Madinet Alfayoum": {
+            "local_code": "مدينة  الفيوم",
+            "has_children": false
         }
     }
 }

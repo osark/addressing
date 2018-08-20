@@ -33,6 +33,14 @@
         "Metobas": {
             "local_code": "مطوبس",
             "has_children": false
+        },
+        "Al-khamia": {
+            "local_code": "الخادمية",
+            "has_children": false
+        },
+        "Teama": {
+            "local_code": "طعيمه",
+            "has_children": false
         }
     }
 }

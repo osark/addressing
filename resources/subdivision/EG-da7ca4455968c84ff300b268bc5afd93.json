@@ -38,7 +38,7 @@
             "local_code": "الشرابية",
             "has_children": false
         },
-        "Almarh": {
+        "Almarg": {
             "local_code": "المرج",
             "has_children": false
         },
@@ -54,8 +54,8 @@
             "local_code": "المقطم",
             "has_children": false
         },
-        "Al-Mousky and Bab al-Sha'ariyya": {
-            "local_code": "الموسكى و باب الشعرية",
+        "Bab al-Sha'ariyya": {
+            "local_code": "الموسكى",
             "has_children": false
         },
         "Elnozha": {
@@ -164,6 +164,230 @@
         },
         "10 of Ramadan": {
             "local_code": "العاشر من رمضان",
+            "has_children": false
+        },
+        "Aljamalia": {
+            "local_code": "الجمالية",
+            "has_children": false
+        },
+        "Alazbika": {
+            "local_code": "الازبكية",
+            "has_children": false
+        },
+        "Alzaher": {
+            "local_code": "الظاهر",
+            "has_children": false
+        },
+        "Badr": {
+            "local_code": "بدر",
+            "has_children": false
+        },
+        "Bab Ellok": {
+            "local_code": "باب اللوق",
+            "has_children": false
+        },
+        "Al-Azhar": {
+            "local_code": "الازهر",
+            "has_children": false
+        },
+        "Al-Ameriah": {
+            "local_code": "الأميرية",
+            "has_children": false
+        },
+        "15 Of May": {
+            "local_code": "مدينة 15 مايو",
+            "has_children": false
+        },
+        "EL-Hussien": {
+            "local_code": "الحسين",
+            "has_children": false
+        },
+        "Ezbet ELNakhl": {
+            "local_code": "عزبة النخل",
+            "has_children": false
+        },
+        "Bolak Abo El-ela": {
+            "local_code": "بولاق أبو العلا",
+            "has_children": false
+        },
+        "Al-Khalefa": {
+            "local_code": "الخليفة",
+            "has_children": false
+        },
+        "Al-Sawah": {
+            "local_code": "السواح",
+            "has_children": false
+        },
+        "Al-Dawahy": {
+            "local_code": "الضواحي",
+            "has_children": false
+        },
+        "Al-Azaretta": {
+            "local_code": "الأزريطة",
+            "has_children": false
+        },
+        "San Stefano": {
+            "local_code": "سان ستيفانو",
+            "has_children": false
+        },
+        "Saraia ElQoba": {
+            "local_code": "سراي القبة",
+            "has_children": false
+        },
+        "Hamamat ElQoba": {
+            "local_code": "حمامات القبة",
+            "has_children": false
+        },
+        "El Opera": {
+            "local_code": "الأوبرا",
+            "has_children": false
+        },
+        "New Cairo": {
+            "local_code": "القاهرة الجديدة",
+            "has_children": false
+        },
+        "ElZamalek": {
+            "local_code": "الزمالك",
+            "has_children": false
+        },
+        "Aldarb AlAhmar": {
+            "local_code": "الدرب الأحمر",
+            "has_children": false
+        },
+        "Tarbeet Ouf": {
+            "local_code": "تربيعة عوف",
+            "has_children": false
+        },
+        "Zahraa AlSalam": {
+            "local_code": "زهراء السلام",
+            "has_children": false
+        },
+        "Algomhouria": {
+            "local_code": "الجمهورية",
+            "has_children": false
+        },
+        "Alzaytoun Algharbia": {
+            "local_code": "الزيتون الغربية",
+            "has_children": false
+        },
+        "ElRehab": {
+            "local_code": "الرحاب",
+            "has_children": false
+        },
+        "EZbet El Nakhl El Gharbia": {
+            "local_code": "عزبة النخل الغربية",
+            "has_children": false
+        },
+        "El Herafeen": {
+            "local_code": "الحرفين",
+            "has_children": false
+        },
+        "Elsabtia": {
+            "local_code": "السبتية",
+            "has_children": false
+        },
+        "New Nozha": {
+            "local_code": "النزهة الجديدة",
+            "has_children": false
+        },
+        "Almaza": {
+            "local_code": "الماظة",
+            "has_children": false
+        },
+        "Masakin Sheraton": {
+            "local_code": "مساكن شيراتون",
+            "has_children": false
+        },
+        "ElShrouk": {
+            "local_code": "الشروق",
+            "has_children": false
+        },
+        "Madinty": {
+            "local_code": "مدينتي",
+            "has_children": false
+        },
+        "Banfsag": {
+            "local_code": "البنفسج",
+            "has_children": false
+        },
+        "Ain-Alserah": {
+            "local_code": "عين الصيرة",
+            "has_children": false
+        },
+        "Wekalet AlBalah": {
+            "local_code": "وكالة البلح",
+            "has_children": false
+        },
+        "kasr Al-Neil": {
+            "local_code": "قصر النيل",
+            "has_children": false
+        },
+        "Al-Naa'am": {
+            "local_code": "النعام",
+            "has_children": false
+        },
+        "Almalek Alsaleh": {
+            "local_code": "الملك الصالح",
+            "has_children": false
+        },
+        "Alghoria": {
+            "local_code": "الغورية",
+            "has_children": false
+        },
+        "Ghamra": {
+            "local_code": "غمرة",
+            "has_children": false
+        },
+        "Hadayiq AlMaadi": {
+            "local_code": "حدائق المعادي",
+            "has_children": false
+        },
+        "Hadayiq Helwan": {
+            "local_code": "حدائق حلوان ",
+            "has_children": false
+        },
+        "Konishe AlNile": {
+            "local_code": "كورنيش النيل ",
+            "has_children": false
+        },
+        "ElManial": {
+            "local_code": "المنيل",
+            "has_children": false
+        },
+        "ElMarg ELGededa": {
+            "local_code": "المرج الجديدة",
+            "has_children": false
+        },
+        "Bab El khalk": {
+            "local_code": "باب الخلق",
+            "has_children": false
+        },
+        "Al-Zahraa": {
+            "local_code": "الزهراء",
+            "has_children": false
+        },
+        "AlHelmya AlGdeda": {
+            "local_code": "الحلمية الجديدة",
+            "has_children": false
+        },
+        "Merghem": {
+            "local_code": "ميرغم",
+            "has_children": false
+        },
+        "Der AlMalak": {
+            "local_code": "دير الملاك",
+            "has_children": false
+        },
+        "Bolak Abo Al ela": {
+            "local_code": "بولاق ابو العلا",
+            "has_children": false
+        },
+        "Darb Saada": {
+            "local_code": "درب سعادة",
+            "has_children": false
+        },
+        "Alkafaseen": {
+            "local_code": "القفاصين",
             "has_children": false
         }
     }

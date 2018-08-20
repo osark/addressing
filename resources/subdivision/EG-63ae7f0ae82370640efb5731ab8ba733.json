@@ -61,6 +61,10 @@
         "Wadi El-Natrun": {
             "local_code": "وادى النطرون",
             "has_children": false
+        },
+        "El-Nuwbarit AlGdeda": {
+            "local_code": "النوبارية الجديدة",
+            "has_children": false
         }
     }
 }

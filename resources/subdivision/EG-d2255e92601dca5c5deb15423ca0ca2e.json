@@ -14,6 +14,10 @@
             "local_code": "حى العامرية",
             "has_children": false
         },
+        "Alsaraya District": {
+            "local_code": "حى السريا",
+            "has_children": false
+        },
         "Montazah District": {
             "local_code": "حى المنتزة",
             "has_children": false
@@ -64,6 +68,210 @@
         },
         "Sidi Gaber": {
             "local_code": "سيدي جابر",
+            "has_children": false
+        },
+        "Louran": {
+            "local_code": "لوران",
+            "has_children": false
+        },
+        "El Omraya": {
+            "local_code": " العمرية ",
+            "has_children": false
+        },
+        "Mahtet Elraml": {
+            "local_code": "محطة الرمل",
+            "has_children": false
+        },
+        "Sporting": {
+            "local_code": "سبورتنج",
+            "has_children": false
+        },
+        "ALsouyof": {
+            "local_code": "السيوف",
+            "has_children": false
+        },
+        "Elnozha": {
+            "local_code": "النزهة",
+            "has_children": false
+        },
+        "Minaa- ALbasal": {
+            "local_code": "مينا البصل",
+            "has_children": false
+        },
+        "Al-Manshia": {
+            "local_code": "المنشية",
+            "has_children": false
+        },
+        "Al-Maamoura": {
+            "local_code": "المعمورة",
+            "has_children": false
+        },
+        "Al-Betash": {
+            "local_code": "البيطاش",
+            "has_children": false
+        },
+        "Margham": {
+            "local_code": "مرغم",
+            "has_children": false
+        },
+        "Moharam Bekk": {
+            "local_code": "محرم بك",
+            "has_children": false
+        },
+        "ALmandara": {
+            "local_code": "المندرة",
+            "has_children": false
+        },
+        "AL-Ibrahimyia": {
+            "local_code": "الابراهيمية",
+            "has_children": false
+        },
+        "Al-Attareen": {
+            "local_code": "العطارين",
+            "has_children": false
+        },
+        "Al-Laban": {
+            "local_code": "اللبان",
+            "has_children": false
+        },
+        "Abo Rawash": {
+            "local_code": "ابو رواش",
+            "has_children": false
+        },
+        "Seket Ashra": {
+            "local_code": "سكة عشرة",
+            "has_children": false
+        },
+        "Rushdy": {
+            "local_code": "رشدي",
+            "has_children": false
+        },
+        "Garden City": {
+            "local_code": "جاردن سيتي",
+            "has_children": false
+        },
+        "Kom Elfarag": {
+            "local_code": "كوم الفرج",
+            "has_children": false
+        },
+        "Zezenia": {
+            "local_code": "زيزينيا",
+            "has_children": false
+        },
+        "Azaretta": {
+            "local_code": "الازاريطة",
+            "has_children": false
+        },
+        "Al Asafra": {
+            "local_code": "العصافرة",
+            "has_children": false
+        },
+        "AlMax": {
+            "local_code": "المكس",
+            "has_children": false
+        },
+        "bacos": {
+            "local_code": "باكوس",
+            "has_children": false
+        },
+        "Burj Al Arab Algdeda": {
+            "local_code": "برج العرب الجديدة",
+            "has_children": false
+        },
+        "Waboor ELMiah": {
+            "local_code": "وابور المياه",
+            "has_children": false
+        },
+        "Saba Basha": {
+            "local_code": "سابا باشا",
+            "has_children": false
+        },
+        "Gellem": {
+            "local_code": "جليم",
+            "has_children": false
+        },
+        "Victoria": {
+            "local_code": "فيكتوريا",
+            "has_children": false
+        },
+        "Bolkly": {
+            "local_code": "بولكلى",
+            "has_children": false
+        },
+        "AlRass Al-Sowda": {
+            "local_code": "الرأس السوداء",
+            "has_children": false
+        },
+        "Hadara": {
+            "local_code": "الحضرة",
+            "has_children": false
+        },
+        "Al-Attareen": {
+            "local_code": "العطاريين",
+            "has_children": false
+        },
+        "Kamb Sheraz": {
+            "local_code": "كامب شيزار",
+            "has_children": false
+        },
+        "Saba": {
+            "local_code": "سابا باشا",
+            "has_children": false
+        },
+        "Abees": {
+            "local_code": "أبيس",
+            "has_children": false
+        },
+        "Shamaa": {
+            "local_code": "شماعة",
+            "has_children": false
+        },
+        "Alhussainia": {
+            "local_code": "الحسينية",
+            "has_children": false
+        },
+        "AlAwaaed": {
+            "local_code": "العوائد",
+            "has_children": false
+        },
+        "Gheet El Enab": {
+            "local_code": "غيط العنب",
+            "has_children": false
+        },
+        "AlMatar": {
+            "local_code": "المطار",
+            "has_children": false
+        },
+        "Mustafa Kamel": {
+            "local_code": "مصطفى كامل",
+            "has_children": false
+        },
+        "AlQantara": {
+            "local_code": "القنطرة",
+            "has_children": false
+        },
+        "Al-Dekhiela": {
+            "local_code": "الدخيلة",
+            "has_children": false
+        },
+        "Hagar Al-Nwateh": {
+            "local_code": "حجر النواتية",
+            "has_children": false
+        },
+        "Citadel": {
+            "local_code": "القلعة",
+            "has_children": false
+        },
+        "Carmoz": {
+            "local_code": "كرموز",
+            "has_children": false
+        },
+        "New Al-Manshia": {
+            "local_code": "المنشية الجديدة",
+            "has_children": false
+        },
+        "Bab Shark": {
+            "local_code": "باب شرق",
             "has_children": false
         }
     }

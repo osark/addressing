@@ -53,6 +53,30 @@
         "Kafr Shukr": {
             "local_code": "كفر شكر",
             "has_children": false
+        },
+        "Al-kalg": {
+            "local_code": "القلج ",
+            "has_children": false
+        },
+        "Begam": {
+            "local_code": "بيجام",
+            "has_children": false
+        },
+        "Musturod": {
+            "local_code": "مسطرد",
+            "has_children": false
+        },
+        "Basos": {
+            "local_code": "باسوس",
+            "has_children": false
+        },
+        "Mit Halfa": {
+            "local_code": "ميت حلفا",
+            "has_children": false
+        },
+        "Mit Nma": {
+            "local_code": "ميت نما",
+            "has_children": false
         }
     }
 }

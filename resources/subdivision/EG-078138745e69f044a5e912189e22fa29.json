@@ -41,6 +41,18 @@
         "Kafr Alzayat": {
             "local_code": "كفر الزيات",
             "has_children": false
+        },
+        "Markaz Al-Mansoura": {
+            "local_code": "المنصورة",
+            "has_children": false
+        },
+        "Mansheyet Abo Rady": {
+            "local_code": "منشية ابو  راضي",
+            "has_children": false
+        },
+        "Alsakalla": {
+            "local_code": "السقالة",
+            "has_children": false
         }
     }
 }

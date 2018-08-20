@@ -33,6 +33,10 @@
         "Qurna": {
             "local_code": "القرنة",
             "has_children": false
+        },
+        "Ezbet shankal": {
+            "local_code": "عزبة شنكل",
+            "has_children": false
         }
     }
 }

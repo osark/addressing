@@ -65,6 +65,86 @@
         "6 October": {
             "local_code": "6 اكتوبر",
             "has_children": false
+        },
+        "El Mohandseen": {
+            "local_code": "المهندسين",
+            "has_children": false
+        },
+        "El Doki": {
+            "local_code": "الدقى",
+            "has_children": false
+        },
+        "Kerdasah": {
+            "local_code": "كرداسة",
+            "has_children": false
+        },
+        "Al-Omrania": {
+            "local_code": "العمرانية",
+            "has_children": false
+        },
+        "Al-Garabel": {
+            "local_code": "الجرابيل",
+            "has_children": false
+        },
+        "Almaryotia": {
+            "local_code": "المريوطية",
+            "has_children": false
+        },
+        "Bahnia": {
+            "local_code": "بهنيا",
+            "has_children": false
+        },
+        "Kom Oshim": {
+            "local_code": "كوم أوشيم",
+            "has_children": false
+        },
+        "AlManawat": {
+            "local_code": "المنوات",
+            "has_children": false
+        },
+        "Waq El-Arab": {
+            "local_code": "وراق العرب",
+            "has_children": false
+        },
+        "Awla": {
+            "local_code": "أولى",
+            "has_children": false
+        },
+        "AlHarania": {
+            "local_code": "الحرانية",
+            "has_children": false
+        },
+        "Allewaa": {
+            "local_code": "ارض اللواء",
+            "has_children": false
+        },
+        "Bolak AlDakror": {
+            "local_code": "بولاق الدكرور",
+            "has_children": false
+        },
+        "Saqarra": {
+            "local_code": "سقارة",
+            "has_children": false
+        },
+        "ALBragel": {
+            "local_code": "البراجيل",
+            "has_children": false
+        },
+        "Shabramant": {
+            "local_code": "شبرامنت",
+            "has_children": false
+        },
+        "AlShorfa": {
+            "local_code": "الشرفا",
+            "has_children": false
+        },
+        "ElManial": {
+            "local_code": "المنيل",
+            "has_children": false
+        },
+        "Awseem": {
+            "local_code": "اوسيم",
+            "has_children": false
         }
     }
 }

@@ -17,6 +17,18 @@
         "Al-Janayen": {
             "local_code": "حى الجناين",
             "has_children": false
+        },
+        "Al ain ALshokhna": {
+            "local_code": "العين السخنة",
+            "has_children": false
+        },
+        "El Arbaeen District": {
+            "local_code": "حى الاربعين",
+            "has_children": false
+        },
+        "Attaka": {
+            "local_code": "عتاقة",
+            "has_children": false
         }
     }
 }

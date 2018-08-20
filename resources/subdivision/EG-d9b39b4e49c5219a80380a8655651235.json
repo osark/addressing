@@ -30,7 +30,7 @@
             "local_code": "تلا",
             "has_children": false
         },
-        "Shebie n El Koom": {
+        "Shebien El Koom": {
             "local_code": "شبين الكوم",
             "has_children": false
         },
@@ -40,6 +40,18 @@
         },
         "Menouf": {
             "local_code": "منوف",
+            "has_children": false
+        },
+        "Gallem": {
+            "local_code": "جليم ",
+            "has_children": false
+        },
+        "Garden City": {
+            "local_code": "جاردن سيتي",
+            "has_children": false
+        },
+        "Serse El Laian": {
+            "local_code": "سرس الليان",
             "has_children": false
         }
     }

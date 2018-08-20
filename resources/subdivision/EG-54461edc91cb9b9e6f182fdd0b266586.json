@@ -41,6 +41,10 @@
         "Malwaa": {
             "local_code": "ملوى",
             "has_children": false
+        },
+        "kafr Sakr": {
+            "local_code": "كفر صقر",
+            "has_children": false
         }
     }   
 }

@@ -45,6 +45,34 @@
         "Heha - Brahimi": {
             "local_code": "هيها- الابراهيمية",
             "has_children": false
+        },  
+        "10th of ramdan": {
+            "local_code": "العاشر من رمضان",
+            "has_children": false
+        },  
+        "Anchace": {
+            "local_code": "انشاصن",
+            "has_children": false
+        },  
+        "Al-Sadat": {
+            "local_code": "السادات",
+            "has_children": false
+        },  
+        "Bab-Alshaeraya": {
+            "local_code": "باب الشعرية",
+            "has_children": false
+        },  
+        "Alsalheya ElGededa": {
+            "local_code": "الصالحية الجديدة",
+            "has_children": false
+        },  
+        "Abohamad": {
+            "local_code": "ابو حماد",
+            "has_children": false
+        },  
+        "Mashtoul al souq": {
+            "local_code": "مشتول السوق",
+            "has_children": false
         }
     }
 }

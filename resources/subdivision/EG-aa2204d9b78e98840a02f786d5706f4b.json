@@ -29,6 +29,10 @@
         "Marsa Alam": {
             "local_code": "مرسى علم",
             "has_children": false
+        },
+        "ElGouna": {
+            "local_code": "الجونه",
+            "has_children": false
         }
     }
 }
